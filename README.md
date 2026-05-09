@@ -33,7 +33,7 @@ A clean and modern React Native Sign In screen inspired by a telecare AI applica
 Clone the repository:
 
 ```bash
-git clone https://github.com/rony-codes/React-native.git
+git clone https://github.com/rony-codes/Ui-react-native.git
 ```
 
 Install dependencies:
