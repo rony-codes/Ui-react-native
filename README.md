@@ -36,12 +36,6 @@ Clone the repository:
 git clone https://github.com/your-username/telecare-ui.git
 ```
 
-Move into the project folder:
-
-```bash
-cd telecare-ui
-```
-
 Install dependencies:
 
 ```bash
